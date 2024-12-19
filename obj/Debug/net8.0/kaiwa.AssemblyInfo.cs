@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kaiwa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24922d338ae117a2dccd08b0280a1e53891acc20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55416d1b103be868c459357a406d4bbf26758106")]
 [assembly: System.Reflection.AssemblyProductAttribute("kaiwa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kaiwa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
